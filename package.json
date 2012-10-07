@@ -1,0 +1,26 @@
+{
+  "name": "wellspaul.com",
+  "version": "0.0.1",
+  "description": "Personal Website",
+  "homepage": "http://wellspaul.com",
+  "keywords": ["portfolio", "blog"],
+  "author": "Paul Wells <pwells2@uroegon.edu>",
+  "contributors": [
+  ],
+  "repository":{
+      "type": "git",
+      "url": "git@github.com:paulwe/wellspaul.com.git"
+  },
+  "dependencies": {
+    "express": "",
+    "less-middleware": "",
+    "jade": ""
+  },
+  "devDependencies": {
+    "node-inspector": "latest"
+  },
+  "main": "index",
+  "engines": {
+    "node": ">=0.6.0"
+  }
+}
